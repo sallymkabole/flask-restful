@@ -16,7 +16,7 @@ Give examples
 ```
 
 ### Installing
-1. git clone https://github.com/sallymkabole/flaskTodo.gitpip 
+1. git clone https://github.com/sallymkabole/flaskTodo.git
 2. pipenv install flask flask-restful gunicorn
 3.pip env install flask flask-restful gunicorn
 4. Test API with postman
