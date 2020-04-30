@@ -46,6 +46,6 @@ To contribute:
 
 ## Authors
 
-* **Musanga Sally** - *Initial work* - [PurpleBooth](https://github.com/sallymkabole)
+* **Musanga Sally** - *Initial work* -(https://github.com/sallymkabole)
 
 
