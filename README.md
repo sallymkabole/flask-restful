@@ -11,10 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 python3
 vscode(any text editor)
 
-```
-Give examples
-```
-
 ### Installing
 1. git clone https://github.com/sallymkabole/flaskTodo.git
 2. pipenv install flask flask-restful gunicorn
